@@ -187,3 +187,36 @@ main section {
     color: #757575;
     text-align: justify;
 }
+
+/* resume styles here  */
+
+.resume{
+    padding: 0px 100px;
+}
+
+.resume-container{
+    display: flex;
+    gap: 24px;
+}
+
+.resume-coloumn-title{
+    font-size: 26px;
+}
+
+.ex-title{
+    font-size: 22px;
+    color: #181818;
+}
+.ex-sub-title{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.ex-sub-title, .ex-desc{
+    color: #757575;
+}
+
+.btn-second{
+    margin-top: 50px;
+}
